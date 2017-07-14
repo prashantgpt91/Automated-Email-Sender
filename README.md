@@ -17,7 +17,7 @@ Please take into consideration the following:
 
 
 
-<img src="https://github.com/x0v/TDEA-Genetic-Algorithm/blob/master/gantt%20charts/pra66.JPG" width="1000">
+<img src="https://github.com/x0v/Automated-Email-Sender/blob/master/Approach-1.jpg" width="1000">
 
-<img src="https://github.com/x0v/TDEA-Genetic-Algorithm/blob/master/gantt%20charts/pra66.JPG" width="1000">
+<img src="https://github.com/x0v/Automated-Email-Sender/blob/master/Approach-2.jpg" width="1000">
 
