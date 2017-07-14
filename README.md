@@ -17,7 +17,7 @@ Please take into consideration the following:
 
 
 
-## Approach-1 Flow Diagram
+## Approach-1 | Flow Diagram
 
 
 <img src="https://github.com/x0v/Automated-Email-Sender/blob/master/Approach-1.jpg" width="1000">
@@ -26,7 +26,7 @@ Please take into consideration the following:
 
 
 
-## Approach-2 Flow Diagram
+## Approach-2 | Flow Diagram
 
 
 <img src="https://github.com/x0v/Automated-Email-Sender/blob/master/Approach-2.jpg" width="1000">
